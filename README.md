@@ -1,12 +1,7 @@
-# Watch Together
+# NobarYT
 
-An app to allow you to watch Youtube videos with friends, without the overhead of screen
-sharing.
-
-Any user interactions with the video will be shared among all users in the same room (e.g.
-skipping ahead/behind, pausing, playing, etc.).
-
-A link to the demo of this website can be found at https://watch-together-app.herokuapp.com
+This application allows users to watch YouTube videos together in real-time. Users can create a room and watch videos together. Features include real-time chat and video synchronization.
+Just for fun :)
 
 Running locally:
 
